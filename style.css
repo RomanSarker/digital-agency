@@ -20,3 +20,12 @@
     font-weight: bold;
 
 }
+
+.banner-container {
+    height: 100vh;
+    background-image: url("./asset/image/background.jpg"), linear-gradient(rgb(90, 80, 80), rgb(97, 90, 90));
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
