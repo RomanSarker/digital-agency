@@ -98,9 +98,5 @@
 .first-two-box {
     display: flex;
     gap: 3px;
-}
-
-.last-two-box {
-    display: flex;
-    gap: 3px;
+    margin-top: 5px;
 }
