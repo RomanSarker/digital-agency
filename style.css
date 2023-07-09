@@ -100,3 +100,83 @@
     gap: 3px;
     margin-top: 5px;
 }
+
+.profile-pic {
+    border-radius: 50%;
+
+}
+
+.profile-container {
+    display: flex;
+    text-align: right 10px;
+    margin-top: 50px;
+
+}
+
+.profile-heads {
+    margin-top: 20px;
+    align-items: center;
+}
+
+.author-container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-right: 2px solid red;
+    padding: 20px;
+}
+
+.phone-call {
+    display: flex;
+    align-items: center;
+}
+
+.appoinment-container {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+    padding: 20PX;
+    background-color: red;
+    border-radius: 8px;
+    margin-top: -20px;
+    align-items: center;
+}
+
+.blog-title {
+    color: black;
+    text-align: center;
+    margin: 50px;
+}
+
+.card {
+    width: 230px;
+    height: 350px;
+    background-color: aqua;
+    box-shadow: 6px 10px 6px gray;
+    border-radius: 10px;
+
+}
+
+.blog-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.cards {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-t {
+    margin-top: 15px;
+    margin: 10px;
+}
