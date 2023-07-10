@@ -180,3 +180,15 @@
     margin-top: 15px;
     margin: 10px;
 }
+
+.address {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    background-color: rgb(228, 222, 222);
+    padding: 10px;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+}
